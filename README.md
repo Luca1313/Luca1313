@@ -17,7 +17,7 @@
   <img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
 </p>
 
-## 📫 How to reach me
+## 📫 Reach me
 <p>
   <a href="https://github.com/Luca1313">
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
