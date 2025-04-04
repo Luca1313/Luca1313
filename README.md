@@ -4,7 +4,7 @@
 - 👨🏻‍🎓 Bachelor's degree in **Engineering and Computer Science** @ Alma Mater Studiorum of Bologna, Cesena's Campus
 - 🔭 Currently studying Master in **Engineering and Computer Science** @ Alma Mater Studiorum of Bologna, Cesena's Campus
 
-## My skills
+## Skills
 
 <b> 💻 Programming Languages </b> <br>
 <p> 
